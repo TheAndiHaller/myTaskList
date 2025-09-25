@@ -5,4 +5,6 @@
 Ability to add tasks to a list, add them to a project, mark them with tags/colors
 Mark them as done, display Tasks done today / this week / this month.
 
+Each project gets a color or marker, ability to add tasks to it later. Also has description.
+
 
